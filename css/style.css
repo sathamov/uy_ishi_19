@@ -21,6 +21,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+
 .contener{
     width: 1140px;
     margin: 0 auto;
@@ -74,6 +75,16 @@ body{
     background: radial-gradient(100% 100% at 50% 0%, #504A93 0%, #413E65 100%);;
 }
 
+.nav_text_img{
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.nav_text{
+    margin-top: 100px;
+}
+
 .img{
     width: 700px;
 }
@@ -121,4 +132,115 @@ body{
     font-size: 15px;
     margin-top: 10px;
     color: dimgrey;
+}
+
+.section_main{
+    background: #F7F7FB;;
+}
+
+.contner{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.main{
+    position: relative;
+}
+
+.vse_box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box{
+    width: 250px;
+    padding: 10px 30px;
+}
+
+.mml_img{
+    width: 30px;
+    margin-left: 20px;
+}
+
+.mml_text{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.with{
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.box_ikki{
+    width: 250px;
+    padding: 10px 30px;
+}
+
+.box_uch{
+    width: 250px;
+    padding: 10px 30px;
+}
+
+.contner{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.main_title{
+    display: flex;
+}
+
+.main_text{
+    margin-top: 200px;
+}
+
+.make{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.create{
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+}
+
+
+
+.text_galchka{
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.ptichka{
+    background-color: rgba(84, 84, 212, 0.1);;
+    padding: 5px;
+    border-radius: 50%;
+    color: blue;
+}
+
+.contener_section{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.section_titlee{
+    display: flex;
+    margin-top: 100px;
+}
+
+.text{
+    margin-top: 100px;
+}
+
+.all_your{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.create{
+    font-size: 20px;
 }
